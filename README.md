@@ -72,7 +72,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 <!-- GitHub Stats -->
 
-| ![Carlos Rafael Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CRafa642&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-m-csilva&theme=slateorange) |
+| ![Carlos Rafael Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CRafa642&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CRafa642&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CRafa642&theme=slateorange) |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CRafa642&theme=slateorange) | ![](https://streak-stats.demolab.com?user=CRafa642&locale=en&mode=daily&theme=slateorange&hide_border=false&border_radius=5&order=3) |
@@ -86,11 +86,11 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 <div align="justify">
 
-<img src="Cat Meme GIF.gif" width=150 align="left" style="margin-right: 10px;">
+<img src="Cat Meme GIF.gif" width=150 align="left" style="margin-right: 50px;">
 
 #### Curiosidades sobre mim
 
-Meu animal preferido é o gato, e gosto de tudo que os envolva `(principalmente memes)`. Sou muito fã dos jogos da franquia Zelda, sendo Ocarina of Time o meu jogo preferido. Gosto bastante de animes e mangás. Entre um tempo livre e outro, estou sempre brincando com meus gatos.
+ Meu animal preferido é o gato, e gosto de tudo que os envolva `(principalmente memes)`. Sou muito fã dos jogos da franquia Zelda, sendo Ocarina of Time o meu jogo preferido. Gosto bastante de animes e mangás. Entre um tempo livre e outro, estou sempre brincando com meus gatos.
 
 </div>
 
