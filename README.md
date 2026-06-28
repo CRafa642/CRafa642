@@ -14,7 +14,7 @@
 
 <!-- Banner -->
 <p align="center">  
-    <img src="This Is Fine Breath Of The Wild GIF.gif" width="800px" height="600px" alt="Link" />
+    <img src="This Is Fine Breath Of The Wild GIF.gif" width="400px" height="480px" alt="Its Fine" />
 </p>
 
 <!-- Nome e Título -->
@@ -44,7 +44,9 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.rafa_el?igsh=MTIxeTlsMGYwbjFrbQ%3D%3D&utm_source=qr/)
 
-[![Email](https://img.shields.io/badge/Email-222428?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafamarkes2013@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rafael-301a63275/)
+[![Email](https://img.shields.io/badge/Email-222428?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafamarkes2013@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rafael-301a63275/)
 
 </div>
 
@@ -101,7 +103,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&duration=2300&pause=1000&color=E97C25&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Volte+sempre!+)](https://git.io/typing-svg)
-<img src="nintendo switch japan GIF.gif" width="300px" height="300px" alt="zelda relax" />
+<img src="nintendo switch japan GIF.gif" width="400px" height="600px" alt="zelda relax" />
 
 </div>
 
