@@ -101,7 +101,7 @@ Meu animal preferido é o gato, e gosto de tudo que os envolva `(principalmente 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&duration=2300&pause=1000&color=E97C25&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Volte+sempre!+)](https://git.io/typing-svg)
-<img src="assets/cat-bye.gif" width="200px" height="200px" alt="Cat meme" />
+<img src="nintendo switch japan GIF.gif" width="300px" height="300px" alt="zelda relax" />
 
 </div>
 
