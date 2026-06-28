@@ -42,7 +42,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-222428?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5588994737168)
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c.rafa_el?igsh=MTIxeTlsMGYwbjFrbQ%3D%3D&utm_source=qr/)
 
 [![Email](https://img.shields.io/badge/Email-222428?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafamarkes2013@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rafael-301a63275/)
 
@@ -72,10 +72,10 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 <!-- GitHub Stats -->
 
-| ![João Marcos Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-m-csilva&theme=slateorange) |
+| ![Carlos Rafael Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CRafa642&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-m-csilva&theme=slateorange) |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-m-csilva&theme=slateorange) | ![](https://streak-stats.demolab.com?user=joao-m-csilva&locale=en&mode=daily&theme=slateorange&hide_border=false&border_radius=5&order=3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CRafa642&theme=slateorange) | ![](https://streak-stats.demolab.com?user=CRafa642&locale=en&mode=daily&theme=slateorange&hide_border=false&border_radius=5&order=3) |
 | :--------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
