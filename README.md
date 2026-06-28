@@ -20,7 +20,7 @@
 <!-- Nome e Título -->
 <div align="center">
 
-<h3> Carlos Rafael Jácome Barbosa | Ciber Security </h3>
+<h3> Carlos Rafael Jácome Barbosa | Cyber Security </h3>
 
 </div>
 
