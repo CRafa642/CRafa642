@@ -14,7 +14,7 @@
 
 <!-- Banner -->
 <p align="center">  
-    <img src="assets/dark-souls-bonfire.gif" width="800px" height="400px" alt="Dark Souls Bonfire" />
+    <img src="This Is Fine Breath Of The Wild GIF.gif" width="800px" height="600px" alt="Link" />
 </p>
 
 <!-- Nome e Título -->
@@ -53,7 +53,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 ---
 
 <!-- Badges Personalizáveis -->
-<div align="center">
+<!-- <div align="center">
 
 ### Tecnologias com que trabalho
 
@@ -63,7 +63,8 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 ![Git](https://img.shields.io/badge/GIT-B06B0B?style=for-the-badge&logo=GIT&logoColor=white) ![GitLab](https://img.shields.io/badge/GITLAB-B06B0B?style=for-the-badge&logo=GITLAB&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23B06B0B?style=for-the-badge&logo=Docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23B06B0B?style=for-the-badge&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23B06B0B?style=for-the-badge&logo=Figma&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBVEAVER-B06B0B?style=for-the-badge&logo=DBEAVER&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-B06B0B?style=for-the-badge&logo=claude%20code&logoColor=white)
 
-</div>
+</div> 
+--> 
 
 ---
 
@@ -85,7 +86,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 <div align="justify">
 
-<img src="assets/plink-cat-blink.gif" width=150 align="left" style="margin-right: 10px;">
+<img src="Cat Meme GIF.gif" width=150 align="left" style="margin-right: 10px;">
 
 #### Curiosidades sobre mim
 
@@ -100,7 +101,7 @@ Meu animal preferido é o gato, e gosto de tudo que os envolva `(principalmente 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&duration=2300&pause=1000&color=E97C25&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Volte+sempre!+)](https://git.io/typing-svg)
-<img src="assets/cat-bye.gif" width="200px" height="200px" alt="Cat bye meme" />
+<img src="assets/cat-bye.gif" width="200px" height="200px" alt="Cat meme" />
 
 </div>
 
