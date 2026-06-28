@@ -90,7 +90,7 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 #### Curiosidades sobre mim
 
- Meu animal preferido é o gato, e gosto de tudo que os envolva `(principalmente memes)`. Sou muito fã dos jogos da franquia Zelda, sendo Ocarina of Time o meu jogo preferido. Gosto bastante de animes e mangás. Entre um tempo livre e outro, estou sempre brincando com meus gatos.
+ Meu animal preferido é o gato ( tenho 3 ), e gosto de tudo que os envolva `(principalmente memes)`. Sou muito fã dos jogos da franquia Zelda, sendo Ocarina of Time o meu jogo preferido. Gosto bastante de animes e mangás. Entre um tempo livre e outro, estou sempre brincando com meus gatos: `Ravenna`, `Joey` e `Akira`.
 
 </div>
 
